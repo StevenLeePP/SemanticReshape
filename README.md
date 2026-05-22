@@ -1,6 +1,6 @@
 # Self-Describing Semantic Latent Platform
 
-This folder is a compact sidecar platform for shape-metadata recovery experiments on top of the existing read-only `../SwinJSCC` implementation.
+This folder is a compact sidecar platform for shape-metadata recovery experiments on top of the existing read-only `../SwinJSCC` implementation. https://github.com/semcomm/SwinJSCC
 
 ## Final Question
 
