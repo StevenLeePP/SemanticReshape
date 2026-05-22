@@ -1,0 +1,496 @@
+method,symbols,snr_db,shape_success,utility_psnr,note
+oracle,0,-12.0,1.0,9.466833753690477,known shape upper bound
+semantic_watermark,0,-12.0,1.0,9.647151798254711,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-12.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-11.5,1.0,10.088009248438851,known shape upper bound
+semantic_watermark,0,-11.5,1.0,9.870768972916391,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-11.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-11.0,1.0,10.30092015489153,known shape upper bound
+semantic_watermark,0,-11.0,1.0,10.072624998168713,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-11.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-10.5,1.0,10.74605884836497,known shape upper bound
+semantic_watermark,0,-10.5,1.0,10.421117438015921,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-10.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-10.0,1.0,10.902545041291734,known shape upper bound
+semantic_watermark,0,-10.0,1.0,10.875450028654162,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-10.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-9.5,1.0,11.594541285857476,known shape upper bound
+semantic_watermark,0,-9.5,1.0,11.445834201262917,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-9.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-9.0,1.0,12.02024117954981,known shape upper bound
+semantic_watermark,0,-9.0,1.0,11.840702002149118,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-9.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-8.5,1.0,12.62794663267544,known shape upper bound
+semantic_watermark,0,-8.5,1.0,12.363627553742472,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-8.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-8.0,1.0,13.105182572819539,known shape upper bound
+semantic_watermark,0,-8.0,1.0,13.172686416092754,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-8.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-7.5,1.0,13.879582054678114,known shape upper bound
+semantic_watermark,0,-7.5,1.0,13.579967248157894,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-7.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-7.0,1.0,14.719535239630801,known shape upper bound
+semantic_watermark,0,-7.0,1.0,14.7657215520243,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-7.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-6.5,1.0,14.491304680017773,known shape upper bound
+semantic_watermark,0,-6.5,1.0,15.125294984116948,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-6.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-6.0,1.0,16.281111606752166,known shape upper bound
+semantic_watermark,0,-6.0,1.0,15.74117425907836,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-6.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-5.5,1.0,16.753082528121404,known shape upper bound
+semantic_watermark,0,-5.5,1.0,16.69876563273248,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-5.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-5.0,1.0,17.742185762491165,known shape upper bound
+semantic_watermark,0,-5.0,1.0,17.822774557399576,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-5.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-4.5,1.0,18.576121240752403,known shape upper bound
+semantic_watermark,0,-4.5,1.0,18.616123191757808,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-4.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-4.0,1.0,19.345708591991382,known shape upper bound
+semantic_watermark,0,-4.0,1.0,19.23141138062914,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-4.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-3.5,1.0,20.54358963454742,known shape upper bound
+semantic_watermark,0,-3.5,1.0,20.319306141104764,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-3.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-3.0,1.0,21.322291903556184,known shape upper bound
+semantic_watermark,0,-3.0,1.0,21.02516186023241,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-3.0,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-2.5,1.0,22.055282810343336,known shape upper bound
+semantic_watermark,0,-2.5,1.0,22.341269793894917,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-2.5,0.0,0.0,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-2.0,1.0,22.34386780618552,known shape upper bound
+semantic_watermark,0,-2.0,1.0,22.670908622559168,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-2.0,1.0,22.99990077579195,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-1.5,1.0,23.905958028894975,known shape upper bound
+semantic_watermark,0,-1.5,1.0,23.669783567726647,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-1.5,1.0,23.614388498766306,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-1.0,1.0,24.647537408367413,known shape upper bound
+semantic_watermark,0,-1.0,1.0,24.443418541743572,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-1.0,1.0,24.641147847738427,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,-0.5,1.0,25.150259885113748,known shape upper bound
+semantic_watermark,0,-0.5,1.0,24.99013568272666,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,-0.5,1.0,25.212327677267485,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,0.0,1.0,26.053523692071643,known shape upper bound
+semantic_watermark,0,0.0,1.0,25.981764037321263,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,0.0,1.0,25.635974021937507,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,0.5,1.0,26.55339429101776,known shape upper bound
+semantic_watermark,0,0.5,1.0,26.48358862231665,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,0.5,1.0,26.495050440917545,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,1.0,1.0,27.00531890258627,known shape upper bound
+semantic_watermark,0,1.0,1.0,27.2290579796404,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,1.0,1.0,27.268733649354374,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,1.5,1.0,27.709286752516995,known shape upper bound
+semantic_watermark,0,1.5,1.0,27.425107450971165,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,1.5,1.0,27.725011796465346,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,2.0,1.0,28.280856264535196,known shape upper bound
+semantic_watermark,0,2.0,1.0,28.1688471121039,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,2.0,1.0,28.24078204649071,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,2.5,1.0,28.63220828730872,known shape upper bound
+semantic_watermark,0,2.5,1.0,28.57261392698,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,2.5,1.0,28.593897961543057,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,3.0,1.0,29.09286870388396,known shape upper bound
+semantic_watermark,0,3.0,1.0,28.985635773064462,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,3.0,1.0,28.9788773779053,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,3.5,1.0,29.46638476265552,known shape upper bound
+semantic_watermark,0,3.5,1.0,29.475380338950135,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,3.5,1.0,29.39194959167772,published DVB-S2 QPSK 1/4 threshold model
+oracle,0,4.0,1.0,29.808940127560724,known shape upper bound
+semantic_watermark,0,4.0,1.0,29.772146287872413,zero side symbols; alpha=0.10 latent watermark
+dvbs2_ldpc,192,4.0,1.0,29.79676282294445,published DVB-S2 QPSK 1/4 threshold model
+semantic_header,96,-12.0,0.7473,7.071850913617787,3-bit shape metadata; rate=0.03125
+repetition_code,96,-12.0,0.7846258181392669,7.427922179177815,3-bit shape metadata; rate=0.03125
+random_codebook,96,-12.0,0.9705999999999999,9.18710160773155,3-bit shape metadata; rate=0.03125
+semantic_header,96,-11.5,0.7503,7.568272099981701,3-bit shape metadata; rate=0.03125
+repetition_code,96,-11.5,0.8144013665805886,8.215688518006216,3-bit shape metadata; rate=0.03125
+random_codebook,96,-11.5,0.9696000000000001,9.780898773502328,3-bit shape metadata; rate=0.03125
+semantic_header,96,-11.0,0.7683000000000002,7.915903375731316,3-bit shape metadata; rate=0.03125
+repetition_code,96,-11.0,0.8427507291433223,8.68110797138198,3-bit shape metadata; rate=0.03125
+random_codebook,96,-11.0,0.9800000000000001,10.0949017517937,3-bit shape metadata; rate=0.03125
+semantic_header,96,-10.5,0.8005000000000001,8.597406379814444,3-bit shape metadata; rate=0.03125
+repetition_code,96,-10.5,0.869261048908626,9.341130386163556,3-bit shape metadata; rate=0.03125
+random_codebook,96,-10.5,0.9783999999999999,10.514714173768564,3-bit shape metadata; rate=0.03125
+semantic_header,96,-10.0,0.7916000000000001,8.633667855654874,3-bit shape metadata; rate=0.03125
+repetition_code,96,-10.0,0.8935596271264574,9.74207408182605,3-bit shape metadata; rate=0.03125
+random_codebook,96,-10.0,0.9916,10.810469324334372,3-bit shape metadata; rate=0.03125
+semantic_header,96,-9.5,0.86,9.969271952637893,3-bit shape metadata; rate=0.03125
+repetition_code,96,-9.5,0.9153399564694222,10.6129469158797,3-bit shape metadata; rate=0.03125
+random_codebook,96,-9.5,0.9875999999999999,11.451989105832563,3-bit shape metadata; rate=0.03125
+semantic_header,96,-9.0,0.8710000000000001,10.471510798145783,3-bit shape metadata; rate=0.03125
+repetition_code,96,-9.0,0.9343856833326015,11.231541268376324,3-bit shape metadata; rate=0.03125
+random_codebook,96,-9.0,0.9922000000000001,11.9268594445009,3-bit shape metadata; rate=0.03125
+semantic_header,96,-8.5,0.885,11.175027629938018,3-bit shape metadata; rate=0.03125
+repetition_code,96,-8.5,0.9505891938419444,12.003989609434042,3-bit shape metadata; rate=0.03125
+random_codebook,96,-8.5,0.9988000000000001,12.612652068720283,3-bit shape metadata; rate=0.03125
+semantic_header,96,-8.0,0.9059000000000001,11.870367641854719,3-bit shape metadata; rate=0.03125
+repetition_code,96,-8.0,0.9639616401389587,12.632893287215621,3-bit shape metadata; rate=0.03125
+random_codebook,96,-8.0,0.9945,13.033839182697443,3-bit shape metadata; rate=0.03125
+semantic_header,96,-7.5,0.9129000000000002,12.671979840498455,3-bit shape metadata; rate=0.03125
+repetition_code,96,-7.5,0.9746320101393007,13.527484957844294,3-bit shape metadata; rate=0.03125
+random_codebook,96,-7.5,0.9964000000000001,13.830197507184744,3-bit shape metadata; rate=0.03125
+semantic_header,96,-7.0,0.9330000000000002,13.736756195504384,3-bit shape metadata; rate=0.03125
+repetition_code,96,-7.0,0.982834291857681,14.466863993716718,3-bit shape metadata; rate=0.03125
+random_codebook,96,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.03125
+semantic_header,96,-6.5,0.9527999999999999,13.806954802612498,3-bit shape metadata; rate=0.03125
+repetition_code,96,-6.5,0.9888837008301883,14.330215001833801,3-bit shape metadata; rate=0.03125
+random_codebook,96,-6.5,0.9999,14.489675401295557,3-bit shape metadata; rate=0.03125
+semantic_header,96,-6.0,0.9694,15.782505818316306,3-bit shape metadata; rate=0.03125
+repetition_code,96,-6.0,0.9931449500511281,16.16950377346472,3-bit shape metadata; rate=0.03125
+random_codebook,96,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.03125
+semantic_header,96,-5.5,0.9786999999999999,16.3958258773878,3-bit shape metadata; rate=0.03125
+repetition_code,96,-5.5,0.9959971569780551,16.686022568627646,3-bit shape metadata; rate=0.03125
+random_codebook,96,-5.5,0.999,16.73632944559328,3-bit shape metadata; rate=0.03125
+semantic_header,96,-5.0,0.9832000000000001,17.444208484399084,3-bit shape metadata; rate=0.03125
+repetition_code,96,-5.0,0.9978007298002292,17.70316590206492,3-bit shape metadata; rate=0.03125
+random_codebook,96,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.03125
+semantic_header,96,-4.5,0.9861000000000001,18.317980342283537,3-bit shape metadata; rate=0.03125
+repetition_code,96,-4.5,0.9988711576293652,18.555151728013787,3-bit shape metadata; rate=0.03125
+random_codebook,96,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.03125
+semantic_header,96,-4.0,0.9911,19.173735203667842,3-bit shape metadata; rate=0.03125
+repetition_code,96,-4.0,0.9994630557906478,19.335321025787096,3-bit shape metadata; rate=0.03125
+random_codebook,96,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.03125
+semantic_header,96,-3.5,0.9949999999999999,20.440871686374685,3-bit shape metadata; rate=0.03125
+repetition_code,96,-3.5,0.9997654590309594,20.538771321126966,3-bit shape metadata; rate=0.03125
+random_codebook,96,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.03125
+semantic_header,96,-3.0,0.9968999999999999,21.256238028994733,3-bit shape metadata; rate=0.03125
+repetition_code,96,-3.0,0.9999068767069483,21.320306301518716,3-bit shape metadata; rate=0.03125
+random_codebook,96,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.03125
+semantic_header,96,-2.5,0.9995,22.044071627235972,3-bit shape metadata; rate=0.03125
+repetition_code,96,-2.5,0.9999667761201113,22.054550048276333,3-bit shape metadata; rate=0.03125
+random_codebook,96,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.03125
+semantic_header,96,-2.0,0.9997,22.336428378316963,3-bit shape metadata; rate=0.03125
+repetition_code,96,-2.0,0.9999894857482559,22.343632877134475,3-bit shape metadata; rate=0.03125
+random_codebook,96,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.03125
+semantic_header,96,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.03125
+repetition_code,96,-1.5,0.9999970910639113,23.905888487990936,3-bit shape metadata; rate=0.03125
+random_codebook,96,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.03125
+semantic_header,96,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.03125
+repetition_code,96,-1.0,0.9999993077943115,24.64752034720181,3-bit shape metadata; rate=0.03125
+random_codebook,96,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.03125
+semantic_header,96,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.03125
+repetition_code,96,-0.5,0.9999998608987622,25.15025638668147,3-bit shape metadata; rate=0.03125
+random_codebook,96,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.03125
+semantic_header,96,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.03125
+repetition_code,96,0.0,0.9999999768741133,26.05352308956081,3-bit shape metadata; rate=0.03125
+random_codebook,96,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.03125
+semantic_header,96,0.5,0.9991000000000001,26.529711599321672,3-bit shape metadata; rate=0.03125
+repetition_code,96,0.5,0.9999999968917009,26.55339420848187,3-bit shape metadata; rate=0.03125
+random_codebook,96,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.03125
+semantic_header,96,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.03125
+repetition_code,96,1.0,0.9999999996708716,27.005318893698053,3-bit shape metadata; rate=0.03125
+random_codebook,96,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.03125
+semantic_header,96,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.03125
+repetition_code,96,1.5,0.9999999999733304,27.709286751778006,3-bit shape metadata; rate=0.03125
+random_codebook,96,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.03125
+semantic_header,96,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.03125
+repetition_code,96,2.0,0.9999999999983993,28.280856264489927,3-bit shape metadata; rate=0.03125
+random_codebook,96,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.03125
+semantic_header,96,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.03125
+repetition_code,96,2.5,0.9999999999999313,28.63220828730676,3-bit shape metadata; rate=0.03125
+random_codebook,96,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.03125
+semantic_header,96,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.03125
+repetition_code,96,3.0,0.999999999999998,29.0928687038839,3-bit shape metadata; rate=0.03125
+random_codebook,96,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.03125
+semantic_header,96,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.03125
+repetition_code,96,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.03125
+random_codebook,96,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.03125
+semantic_header,96,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.03125
+repetition_code,96,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.03125
+random_codebook,96,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.03125
+semantic_header,300,-12.0,0.9164,8.674803351767485,3-bit shape metadata; rate=0.01000
+repetition_code,300,-12.0,0.9820947822935592,9.297328034339966,3-bit shape metadata; rate=0.01000
+random_codebook,300,-12.0,0.9991000000000001,9.4584141199979,3-bit shape metadata; rate=0.01000
+semantic_header,300,-11.5,0.9352,9.434523746032005,3-bit shape metadata; rate=0.01000
+repetition_code,300,-11.5,0.9883496490199827,9.970480400004877,3-bit shape metadata; rate=0.01000
+random_codebook,300,-11.5,0.9972,10.059980319435214,3-bit shape metadata; rate=0.01000
+semantic_header,300,-11.0,0.9415999999999999,9.697508733984778,3-bit shape metadata; rate=0.01000
+repetition_code,300,-11.0,0.9927775268873609,10.226522036037382,3-bit shape metadata; rate=0.01000
+random_codebook,300,-11.0,1.0,10.30092015489153,3-bit shape metadata; rate=0.01000
+semantic_header,300,-10.5,0.9638,10.356666419790024,3-bit shape metadata; rate=0.01000
+repetition_code,300,-10.5,0.9957576561232668,10.700470371410598,3-bit shape metadata; rate=0.01000
+random_codebook,300,-10.5,1.0,10.74605884836497,3-bit shape metadata; rate=0.01000
+semantic_header,300,-10.0,0.9667999999999999,10.541569223141874,3-bit shape metadata; rate=0.01000
+repetition_code,300,-10.0,0.997653733996669,10.876964770511567,3-bit shape metadata; rate=0.01000
+random_codebook,300,-10.0,1.0,10.902545041291734,3-bit shape metadata; rate=0.01000
+semantic_header,300,-9.5,0.9712999999999999,11.262388016913226,3-bit shape metadata; rate=0.01000
+repetition_code,300,-9.5,0.9987868042152105,11.580474837242905,3-bit shape metadata; rate=0.01000
+random_codebook,300,-9.5,1.0,11.594541285857476,3-bit shape metadata; rate=0.01000
+semantic_header,300,-9.0,0.9855,11.845007317067386,3-bit shape metadata; rate=0.01000
+repetition_code,300,-9.0,0.9994181564676168,12.013247279961803,3-bit shape metadata; rate=0.01000
+random_codebook,300,-9.0,1.0,12.02024117954981,3-bit shape metadata; rate=0.01000
+semantic_header,300,-8.5,0.9908999999999999,12.512961804320119,3-bit shape metadata; rate=0.01000
+repetition_code,300,-8.5,0.9997434902957332,12.624707441819194,3-bit shape metadata; rate=0.01000
+random_codebook,300,-8.5,1.0,12.62794663267544,3-bit shape metadata; rate=0.01000
+semantic_header,300,-8.0,0.9960000000000001,13.05276184252826,3-bit shape metadata; rate=0.01000
+repetition_code,300,-8.0,0.9998970956583705,13.10383399263495,3-bit shape metadata; rate=0.01000
+random_codebook,300,-8.0,1.0,13.105182572819539,3-bit shape metadata; rate=0.01000
+semantic_header,300,-7.5,0.9982,13.854889780931426,3-bit shape metadata; rate=0.01000
+repetition_code,300,-7.5,0.9999628586070812,13.879066547667474,3-bit shape metadata; rate=0.01000
+random_codebook,300,-7.5,1.0,13.879582054678114,3-bit shape metadata; rate=0.01000
+semantic_header,300,-7.0,0.9945,14.639435250045043,3-bit shape metadata; rate=0.01000
+repetition_code,300,-7.0,0.9999880923020757,14.719359963851584,3-bit shape metadata; rate=0.01000
+random_codebook,300,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.01000
+semantic_header,300,-6.5,0.9972,14.451089323422162,3-bit shape metadata; rate=0.01000
+repetition_code,300,-6.5,0.9999966572088217,14.491256238612332,3-bit shape metadata; rate=0.01000
+random_codebook,300,-6.5,1.0,14.491304680017773,3-bit shape metadata; rate=0.01000
+semantic_header,300,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.01000
+repetition_code,300,-6.0,0.999999191455783,16.281098442753528,3-bit shape metadata; rate=0.01000
+random_codebook,300,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.01000
+semantic_header,300,-5.5,0.9991000000000001,16.738143418140968,3-bit shape metadata; rate=0.01000
+repetition_code,300,-5.5,0.9999998345163521,16.753079755760194,3-bit shape metadata; rate=0.01000
+random_codebook,300,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.01000
+semantic_header,300,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.01000
+repetition_code,300,-5.0,0.9999999719168805,17.742185264235246,3-bit shape metadata; rate=0.01000
+random_codebook,300,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.01000
+semantic_header,300,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.01000
+repetition_code,300,-4.5,0.9999999961374131,18.57612116900052,3-bit shape metadata; rate=0.01000
+random_codebook,300,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.01000
+semantic_header,300,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.01000
+repetition_code,300,-4.0,0.9999999995802916,19.345708583871826,3-bit shape metadata; rate=0.01000
+random_codebook,300,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.01000
+semantic_header,300,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.01000
+repetition_code,300,-3.5,0.9999999999649903,20.543589633828198,3-bit shape metadata; rate=0.01000
+random_codebook,300,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.01000
+semantic_header,300,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.01000
+repetition_code,300,-3.0,0.9999999999978291,21.322291903509896,3-bit shape metadata; rate=0.01000
+random_codebook,300,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.01000
+semantic_header,300,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.01000
+repetition_code,300,-2.5,0.9999999999999035,22.055282810341204,3-bit shape metadata; rate=0.01000
+random_codebook,300,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.01000
+semantic_header,300,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.01000
+repetition_code,300,-2.0,0.999999999999997,22.343867806185457,3-bit shape metadata; rate=0.01000
+random_codebook,300,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.01000
+semantic_header,300,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.01000
+repetition_code,300,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.01000
+random_codebook,300,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.01000
+semantic_header,300,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.01000
+repetition_code,300,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.01000
+random_codebook,300,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.01000
+semantic_header,300,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.01000
+repetition_code,300,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.01000
+random_codebook,300,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.01000
+semantic_header,300,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.01000
+repetition_code,300,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.01000
+random_codebook,300,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.01000
+semantic_header,300,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.01000
+repetition_code,300,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.01000
+random_codebook,300,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.01000
+semantic_header,300,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.01000
+repetition_code,300,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.01000
+random_codebook,300,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.01000
+semantic_header,300,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.01000
+repetition_code,300,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.01000
+random_codebook,300,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.01000
+semantic_header,300,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.01000
+repetition_code,300,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.01000
+random_codebook,300,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.01000
+semantic_header,300,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.01000
+repetition_code,300,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.01000
+random_codebook,300,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.01000
+semantic_header,300,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.01000
+repetition_code,300,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.01000
+random_codebook,300,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.01000
+semantic_header,300,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.01000
+repetition_code,300,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.01000
+random_codebook,300,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.01000
+semantic_header,300,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.01000
+repetition_code,300,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.01000
+random_codebook,300,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.01000
+semantic_header,768,-12.0,0.9948999999999998,9.41845238486091,3-bit shape metadata; rate=0.00391
+repetition_code,768,-12.0,0.9999123408596666,9.466003899181949,3-bit shape metadata; rate=0.00391
+random_codebook,768,-12.0,1.0,9.466833753690477,3-bit shape metadata; rate=0.00391
+semantic_header,768,-11.5,0.9968999999999999,10.056627671322696,3-bit shape metadata; rate=0.00391
+repetition_code,768,-11.5,0.9999689443068783,10.087695958319424,3-bit shape metadata; rate=0.00391
+random_codebook,768,-11.5,1.0,10.088009248438851,3-bit shape metadata; rate=0.00391
+semantic_header,768,-11.0,0.9975999999999999,10.27567289398805,3-bit shape metadata; rate=0.00391
+repetition_code,768,-11.0,0.9999902489304715,10.300819709902893,3-bit shape metadata; rate=0.00391
+random_codebook,768,-11.0,1.0,10.30092015489153,3-bit shape metadata; rate=0.00391
+semantic_header,768,-10.5,1.0,10.74605884836497,3-bit shape metadata; rate=0.00391
+repetition_code,768,-10.5,0.9999973259057306,10.746030112390585,3-bit shape metadata; rate=0.00391
+random_codebook,768,-10.5,1.0,10.74605884836497,3-bit shape metadata; rate=0.00391
+semantic_header,768,-10.0,0.9991000000000001,10.8928563354072,3-bit shape metadata; rate=0.00391
+repetition_code,768,-10.0,0.9999993699410357,10.9025381720455,3-bit shape metadata; rate=0.00391
+random_codebook,768,-10.0,1.0,10.902545041291734,3-bit shape metadata; rate=0.00391
+semantic_header,768,-9.5,0.9999,11.593178476408935,3-bit shape metadata; rate=0.00391
+repetition_code,768,-9.5,0.999999874784406,11.594539834040102,3-bit shape metadata; rate=0.00391
+random_codebook,768,-9.5,1.0,11.594541285857476,3-bit shape metadata; rate=0.00391
+semantic_header,768,-9.0,1.0,12.02024117954981,3-bit shape metadata; rate=0.00391
+repetition_code,768,-9.0,0.9999999794400887,12.020240932414717,3-bit shape metadata; rate=0.00391
+random_codebook,768,-9.0,1.0,12.02024117954981,3-bit shape metadata; rate=0.00391
+semantic_header,768,-8.5,1.0,12.62794663267544,3-bit shape metadata; rate=0.00391
+repetition_code,768,-8.5,0.999999997274894,12.627946598262946,3-bit shape metadata; rate=0.00391
+random_codebook,768,-8.5,1.0,12.62794663267544,3-bit shape metadata; rate=0.00391
+semantic_header,768,-8.0,1.0,13.105182572819539,3-bit shape metadata; rate=0.00391
+repetition_code,768,-8.0,0.99999999971593,13.10518256909675,3-bit shape metadata; rate=0.00391
+random_codebook,768,-8.0,1.0,13.105182572819539,3-bit shape metadata; rate=0.00391
+semantic_header,768,-7.5,1.0,13.879582054678114,3-bit shape metadata; rate=0.00391
+repetition_code,768,-7.5,0.9999999999773823,13.879582054364189,3-bit shape metadata; rate=0.00391
+random_codebook,768,-7.5,1.0,13.879582054678114,3-bit shape metadata; rate=0.00391
+semantic_header,768,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.00391
+repetition_code,768,-7.0,0.9999999999986692,14.71953523961121,3-bit shape metadata; rate=0.00391
+random_codebook,768,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.00391
+semantic_header,768,-6.5,1.0,14.491304680017773,3-bit shape metadata; rate=0.00391
+repetition_code,768,-6.5,0.9999999999999438,14.491304680016963,3-bit shape metadata; rate=0.00391
+random_codebook,768,-6.5,1.0,14.491304680017773,3-bit shape metadata; rate=0.00391
+semantic_header,768,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.00391
+repetition_code,768,-6.0,0.9999999999999984,16.281111606752138,3-bit shape metadata; rate=0.00391
+random_codebook,768,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.00391
+semantic_header,768,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.00391
+repetition_code,768,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.00391
+random_codebook,768,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.00391
+semantic_header,768,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.00391
+repetition_code,768,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.00391
+random_codebook,768,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.00391
+semantic_header,768,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.00391
+repetition_code,768,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.00391
+random_codebook,768,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.00391
+semantic_header,768,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.00391
+repetition_code,768,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.00391
+random_codebook,768,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.00391
+semantic_header,768,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.00391
+repetition_code,768,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.00391
+random_codebook,768,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.00391
+semantic_header,768,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.00391
+repetition_code,768,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.00391
+random_codebook,768,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.00391
+semantic_header,768,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.00391
+repetition_code,768,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.00391
+random_codebook,768,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.00391
+semantic_header,768,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.00391
+repetition_code,768,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.00391
+random_codebook,768,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.00391
+semantic_header,768,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.00391
+repetition_code,768,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.00391
+random_codebook,768,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.00391
+semantic_header,768,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.00391
+repetition_code,768,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.00391
+random_codebook,768,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.00391
+semantic_header,768,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.00391
+repetition_code,768,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.00391
+random_codebook,768,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.00391
+semantic_header,768,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.00391
+repetition_code,768,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.00391
+random_codebook,768,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.00391
+semantic_header,768,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.00391
+repetition_code,768,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.00391
+random_codebook,768,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.00391
+semantic_header,768,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.00391
+repetition_code,768,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.00391
+random_codebook,768,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.00391
+semantic_header,768,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.00391
+repetition_code,768,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.00391
+random_codebook,768,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.00391
+semantic_header,768,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.00391
+repetition_code,768,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.00391
+random_codebook,768,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.00391
+semantic_header,768,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.00391
+repetition_code,768,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.00391
+random_codebook,768,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.00391
+semantic_header,768,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.00391
+repetition_code,768,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.00391
+random_codebook,768,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.00391
+semantic_header,768,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.00391
+repetition_code,768,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.00391
+random_codebook,768,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.00391
+semantic_header,768,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.00391
+repetition_code,768,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.00391
+random_codebook,768,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.00391
+semantic_header,1536,-12.0,1.0,9.466833753690477,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-12.0,0.9999999802340905,9.466833566569896,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-12.0,1.0,9.466833753690477,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-11.5,1.0,10.088009248438851,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-11.5,0.999999997392354,10.088009222132893,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-11.5,1.0,10.088009248438851,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-11.0,1.0,10.30092015489153,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-11.0,0.9999999997295961,10.30092015210612,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-11.0,1.0,10.30092015489153,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-10.5,1.0,10.74605884836497,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-10.5,0.9999999999785969,10.746058848134972,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-10.5,1.0,10.74605884836497,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-10.0,1.0,10.902545041291734,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-10.0,0.9999999999987488,10.902545041278092,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-10.0,1.0,10.902545041291734,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-9.5,1.0,11.594541285857476,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-9.5,0.9999999999999482,11.594541285856874,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-9.5,1.0,11.594541285857476,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-9.0,1.0,12.02024117954981,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-9.0,0.9999999999999986,12.020241179549794,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-9.0,1.0,12.02024117954981,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-8.5,1.0,12.62794663267544,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-8.5,1.0,12.62794663267544,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-8.5,1.0,12.62794663267544,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-8.0,1.0,13.105182572819539,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-8.0,1.0,13.105182572819539,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-8.0,1.0,13.105182572819539,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-7.5,1.0,13.879582054678114,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-7.5,1.0,13.879582054678114,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-7.5,1.0,13.879582054678114,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-7.0,1.0,14.719535239630801,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-6.5,1.0,14.491304680017773,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-6.5,1.0,14.491304680017773,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-6.5,1.0,14.491304680017773,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-6.0,1.0,16.281111606752166,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-5.5,1.0,16.753082528121404,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-5.0,1.0,17.742185762491165,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-4.5,1.0,18.576121240752403,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-4.0,1.0,19.345708591991382,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-3.5,1.0,20.54358963454742,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-3.0,1.0,21.322291903556184,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-2.5,1.0,22.055282810343336,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-2.0,1.0,22.34386780618552,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-1.5,1.0,23.905958028894975,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-1.0,1.0,24.647537408367413,3-bit shape metadata; rate=0.00195
+semantic_header,1536,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.00195
+repetition_code,1536,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.00195
+random_codebook,1536,-0.5,1.0,25.150259885113748,3-bit shape metadata; rate=0.00195
+semantic_header,1536,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.00195
+repetition_code,1536,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.00195
+random_codebook,1536,0.0,1.0,26.053523692071643,3-bit shape metadata; rate=0.00195
+semantic_header,1536,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.00195
+repetition_code,1536,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.00195
+random_codebook,1536,0.5,1.0,26.55339429101776,3-bit shape metadata; rate=0.00195
+semantic_header,1536,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.00195
+repetition_code,1536,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.00195
+random_codebook,1536,1.0,1.0,27.00531890258627,3-bit shape metadata; rate=0.00195
+semantic_header,1536,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.00195
+repetition_code,1536,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.00195
+random_codebook,1536,1.5,1.0,27.709286752516995,3-bit shape metadata; rate=0.00195
+semantic_header,1536,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.00195
+repetition_code,1536,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.00195
+random_codebook,1536,2.0,1.0,28.280856264535196,3-bit shape metadata; rate=0.00195
+semantic_header,1536,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.00195
+repetition_code,1536,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.00195
+random_codebook,1536,2.5,1.0,28.63220828730872,3-bit shape metadata; rate=0.00195
+semantic_header,1536,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.00195
+repetition_code,1536,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.00195
+random_codebook,1536,3.0,1.0,29.09286870388396,3-bit shape metadata; rate=0.00195
+semantic_header,1536,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.00195
+repetition_code,1536,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.00195
+random_codebook,1536,3.5,1.0,29.46638476265552,3-bit shape metadata; rate=0.00195
+semantic_header,1536,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.00195
+repetition_code,1536,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.00195
+random_codebook,1536,4.0,1.0,29.808940127560724,3-bit shape metadata; rate=0.00195
